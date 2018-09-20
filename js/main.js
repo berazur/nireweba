@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["who I am?", "just someone else", "here my creations"],
+      strings: [", who I am?", "just someone else", "part of the creation"],
       typeSpeed: 100,
       loop: true,
     });
